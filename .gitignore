@@ -1,0 +1,4 @@
+﻿# arquivos só do PC (atalhos e lançadores)
+*.lnk
+*.cmd
+*.ps1
