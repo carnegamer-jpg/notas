@@ -2,3 +2,6 @@
 *.lnk
 *.cmd
 *.ps1
+
+# configuração local do Claude
+.claude/

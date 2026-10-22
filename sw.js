@@ -1,6 +1,6 @@
 // Service worker do Notas: permite abrir o app sem internet.
 // Rede primeiro (para receber atualizações), cache como reserva quando offline.
-const CACHE = 'notas-v1';
+const CACHE = 'notas-v2';
 const ASSETS = ['./', 'index.html', 'styles.css', 'app.js', 'icon.svg', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
